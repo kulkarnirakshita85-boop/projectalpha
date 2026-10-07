@@ -1,2 +1,2 @@
 # projectalpha
-basics of git
+basics of git- by rakshita
